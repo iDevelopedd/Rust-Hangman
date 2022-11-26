@@ -1,0 +1,9 @@
+c:\Users\Araya Karafo\Documents\repos\Rust-Hangman\Hangman\target\debug\deps\concurrent_queue-f4ed8b991730f5d2.rmeta: C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.0.0\src\lib.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.0.0\src\bounded.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.0.0\src\single.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.0.0\src\unbounded.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.0.0\src\sync.rs
+
+c:\Users\Araya Karafo\Documents\repos\Rust-Hangman\Hangman\target\debug\deps\concurrent_queue-f4ed8b991730f5d2.d: C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.0.0\src\lib.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.0.0\src\bounded.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.0.0\src\single.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.0.0\src\unbounded.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.0.0\src\sync.rs
+
+C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.0.0\src\lib.rs:
+C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.0.0\src\bounded.rs:
+C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.0.0\src\single.rs:
+C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.0.0\src\unbounded.rs:
+C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.0.0\src\sync.rs:

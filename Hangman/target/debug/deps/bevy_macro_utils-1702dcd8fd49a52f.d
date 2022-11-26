@@ -1,0 +1,10 @@
+c:\Users\Araya Karafo\Documents\repos\Rust-Hangman\Hangman\target\debug\deps\bevy_macro_utils-1702dcd8fd49a52f.rmeta: C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.0\src\lib.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.0\src\attrs.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.0\src\shape.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.0\src\symbol.rs
+
+c:\Users\Araya Karafo\Documents\repos\Rust-Hangman\Hangman\target\debug\deps\libbevy_macro_utils-1702dcd8fd49a52f.rlib: C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.0\src\lib.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.0\src\attrs.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.0\src\shape.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.0\src\symbol.rs
+
+c:\Users\Araya Karafo\Documents\repos\Rust-Hangman\Hangman\target\debug\deps\bevy_macro_utils-1702dcd8fd49a52f.d: C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.0\src\lib.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.0\src\attrs.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.0\src\shape.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.0\src\symbol.rs
+
+C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.0\src\lib.rs:
+C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.0\src\attrs.rs:
+C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.0\src\shape.rs:
+C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_macro_utils-0.9.0\src\symbol.rs:

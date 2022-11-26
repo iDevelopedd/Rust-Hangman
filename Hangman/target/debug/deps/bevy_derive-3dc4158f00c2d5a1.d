@@ -1,0 +1,9 @@
+c:\Users\Araya Karafo\Documents\repos\Rust-Hangman\Hangman\target\debug\deps\bevy_derive-3dc4158f00c2d5a1.dll: C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_derive-0.9.0\src\lib.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_derive-0.9.0\src\app_plugin.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_derive-0.9.0\src\bevy_main.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_derive-0.9.0\src\derefs.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_derive-0.9.0\src\enum_variant_meta.rs
+
+c:\Users\Araya Karafo\Documents\repos\Rust-Hangman\Hangman\target\debug\deps\bevy_derive-3dc4158f00c2d5a1.d: C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_derive-0.9.0\src\lib.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_derive-0.9.0\src\app_plugin.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_derive-0.9.0\src\bevy_main.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_derive-0.9.0\src\derefs.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_derive-0.9.0\src\enum_variant_meta.rs
+
+C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_derive-0.9.0\src\lib.rs:
+C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_derive-0.9.0\src\app_plugin.rs:
+C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_derive-0.9.0\src\bevy_main.rs:
+C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_derive-0.9.0\src\derefs.rs:
+C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_derive-0.9.0\src\enum_variant_meta.rs:

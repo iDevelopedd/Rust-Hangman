@@ -1,0 +1,11 @@
+c:\Users\Araya Karafo\Documents\repos\Rust-Hangman\Hangman\target\debug\deps\notify-ba101faa7d01343a.rmeta: C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-5.0.0\src\lib.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-5.0.0\src\windows.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-5.0.0\src\event.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-5.0.0\src\null.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-5.0.0\src\poll.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-5.0.0\src\config.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-5.0.0\src\error.rs
+
+c:\Users\Araya Karafo\Documents\repos\Rust-Hangman\Hangman\target\debug\deps\notify-ba101faa7d01343a.d: C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-5.0.0\src\lib.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-5.0.0\src\windows.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-5.0.0\src\event.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-5.0.0\src\null.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-5.0.0\src\poll.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-5.0.0\src\config.rs C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-5.0.0\src\error.rs
+
+C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-5.0.0\src\lib.rs:
+C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-5.0.0\src\windows.rs:
+C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-5.0.0\src\event.rs:
+C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-5.0.0\src\null.rs:
+C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-5.0.0\src\poll.rs:
+C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-5.0.0\src\config.rs:
+C:\Users\Araya\ Karafo\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-5.0.0\src\error.rs:
