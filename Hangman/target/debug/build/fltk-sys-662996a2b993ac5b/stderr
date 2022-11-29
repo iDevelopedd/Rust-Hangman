@@ -1,0 +1,12 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+ 52 3036k   52 1583k    0     0  1270k      0  0:00:02  0:00:01  0:00:01 1270k100 3036k  100 3036k    0     0  1787k      0  0:00:01  0:00:01 --:--:-- 3214k
+x lib/
+x lib/cfltk.lib
+x lib/fltk.lib
+x lib/fltk_forms.lib
+x lib/fltk_images.lib
+x lib/fltk_jpeg.lib
+x lib/fltk_png.lib
+x lib/fltk_z.lib
